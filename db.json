@@ -540,6 +540,1441 @@
         "Cook the falafel, a few at a time, for 1–2 minutes until golden. You have to watch the heat, adjusting it so that they don’t cook too fast and burn. Remove with a slotted spoon and drain on kitchen paper.",
         "Serve in the pitta with lettuce, parsley, pickles, a sprinkle of sumac, a drizzle of tahini and chilli sauce to taste."
       ]
+    },
+    {
+      "id": 16,
+      "name": "Butter Chicken (Murgh Makhani)",
+      "price": 15,
+      "discount": 0,
+      "introduction": "One of India's most loved exports, Butter Chicken was accidentally birthed in the 1950s at the Moti Mahal restaurant in Delhi. By mixing leftover tandoori chicken with a rich, buttery tomato gravy, a legend was born. It is known for its mild, creamy texture and aromatic spice profile.",
+      "details": [
+        { "Cuisine": "Indian" },
+        { "Recipe Type": "Curry" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "25 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "800g boneless chicken thighs, bite-sized",
+        "1 cup Greek yogurt",
+        "2 tbsp lemon juice",
+        "2 tsp garam masala",
+        "1 tbsp ginger-garlic paste",
+        "500ml tomato puree",
+        "100g unsalted butter",
+        "200ml heavy cream",
+        "1 tbsp kasuri methi (dried fenugreek leaves)"
+      ],
+      "recipe": [
+        "Marinate chicken in yogurt, lemon juice, ginger-garlic paste, and spices for at least 3 hours.",
+        "Pan-fry or grill the chicken pieces until charred and cooked through; set aside.",
+        "In a large pan, melt butter and add tomato puree. Simmer for 15 minutes until thickened.",
+        "Stir in the cream, cooked chicken, and kasuri methi. Simmer for another 5 minutes.",
+        "Serve hot with garlic naan or basmati rice."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 17,
+      "name": "Paella Valenciana",
+      "price": 22,
+      "discount": 5,
+      "introduction": "The pride of Valencia, Spain. While many variations exist today (including seafood), the traditional Valenciana version usually features rabbit, chicken, and snails. The key to a perfect paella is the 'socarrat'—the delicious toasted crust of rice at the bottom of the pan.",
+      "details": [
+        { "Cuisine": "Spanish" },
+        { "Recipe Type": "Rice" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "40 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "400g Bomba or Calasparra rice",
+        "500g chicken pieces",
+        "1 tsp saffron threads",
+        "1 liter chicken stock",
+        "200g green beans",
+        "2 tomatoes, grated",
+        "1 tsp smoked paprika",
+        "4 tbsp olive oil"
+      ],
+      "recipe": [
+        "Heat oil in a paella pan and brown the chicken until golden.",
+        "Add green beans and grated tomato; cook until the tomato liquid evaporates.",
+        "Stir in the paprika and rice, coating the grains in oil for 1 minute.",
+        "Pour in the hot stock mixed with saffron. Do not stir the rice again.",
+        "Simmer on medium-low until the liquid is absorbed and a crust forms at the bottom. Rest for 5 minutes before serving."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 18,
+      "name": "Coq au Vin",
+      "price": 28,
+      "discount": 0,
+      "introduction": "A cornerstone of French bistro cooking. This dish involves braising chicken with wine, lardons (bacon), mushrooms, and garlic. Traditionally made with an older rooster (coq) to tenderize the tough meat, modern recipes use standard chicken for a silky, rich result.",
+      "details": [
+        { "Cuisine": "French" },
+        { "Recipe Type": "Main" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "25 mins" },
+        { "Cooking Time": "60 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "1 whole chicken, jointed",
+        "750ml red Burgundy wine",
+        "150g pancetta or thick bacon",
+        "250g button mushrooms",
+        "20 pearl onions",
+        "2 cloves garlic, minced",
+        "1 tbsp tomato paste",
+        "Fresh thyme and bay leaves"
+      ],
+      "recipe": [
+        "Fry the pancetta until crisp, then remove. In the same fat, brown the chicken pieces and remove.",
+        "Sauté onions and mushrooms until browned.",
+        "Return chicken and bacon to the pot. Stir in tomato paste and garlic.",
+        "Pour in the wine and herbs. Cover and simmer for 45-50 minutes until chicken is tender.",
+        "Thicken the sauce with a butter-flour paste (beurre manié) if desired and serve."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 19,
+      "name": "Pad Thai",
+      "price": 12,
+      "discount": 0,
+      "introduction": "The ultimate Thai street food. Developed in the 1930s to promote national identity, it has since become a global favorite. It perfectly balances the four pillars of Thai flavor: salty (fish sauce), sour (tamarind), sweet (palm sugar), and spicy (chilli).",
+      "details": [
+        { "Cuisine": "Thai" },
+        { "Recipe Type": "Noodles" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "200g flat rice noodles, soaked",
+        "150g firm tofu, cubed",
+        "100g prawns or shrimp",
+        "2 eggs, lightly beaten",
+        "3 tbsp tamarind paste",
+        "2 tbsp fish sauce",
+        "1 tbsp palm sugar",
+        "Handful of bean sprouts and crushed peanuts"
+      ],
+      "recipe": [
+        "Whisk tamarind, fish sauce, and sugar in a small bowl to make the sauce.",
+        "Heat oil in a wok and fry tofu and prawns until cooked.",
+        "Push ingredients to the side, scramble the eggs in the center.",
+        "Add noodles and sauce. Toss vigorously over high heat until noodles are soft.",
+        "Fold in bean sprouts and serve with peanuts and lime wedges."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 20,
+      "name": "Moussaka",
+      "price": 16,
+      "discount": 0,
+      "introduction": "The definitive Greek comfort food. While versions exist across the Levant, the Greek version—layered with eggplant, spiced meat, and a thick topping of Béchamel sauce—was popularized by chef Nicholas Tselementes in the 1920s.",
+      "details": [
+        { "Cuisine": "Greek" },
+        { "Recipe Type": "Bake" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "45 mins" },
+        { "Cooking Time": "50 mins" },
+        { "Serves": "6" }
+      ],
+      "ingredients": [
+        "3 large eggplants, sliced",
+        "500g ground lamb or beef",
+        "1 onion, chopped",
+        "400g canned tomatoes",
+        "1 tsp cinnamon",
+        "500ml Béchamel sauce",
+        "50g Parmesan cheese",
+        "Olive oil for frying"
+      ],
+      "recipe": [
+        "Salt the eggplant slices, let sit for 20 mins, rinse, and fry in olive oil until golden.",
+        "Sauté onion and meat until browned. Add tomatoes and cinnamon; simmer for 20 mins.",
+        "Layer eggplant and meat sauce in a baking dish, finishing with a layer of eggplant.",
+        "Pour Béchamel sauce over the top and sprinkle with cheese.",
+        "Bake at 180°C for 45 minutes until the top is golden brown."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 21,
+      "name": "Wiener Schnitzel",
+      "price": 24,
+      "discount": 0,
+      "introduction": "A national dish of Austria, the Wiener Schnitzel is a thin, breaded, and pan-fried veal cutlet. Its history is a matter of pride in Vienna, where law dictates it must be made of veal to bear the name. It is famously larger than the plate it is served on and traditionally accompanied by a lemon wedge and potato salad.",
+      "details": [
+        { "Cuisine": "Austrian" },
+        { "Recipe Type": "Meat" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "2 veal cutlets (approx 150g each)",
+        "50g plain flour",
+        "2 eggs, beaten",
+        "100g fine breadcrumbs",
+        "100g clarified butter or lard for frying",
+        "1 pinch salt and black pepper",
+        "1 lemon, cut into wedges"
+      ],
+      "recipe": [
+        "Place the cutlets between sheets of plastic wrap and pound with a meat mallet until 4mm thin.",
+        "Season the meat with salt and pepper. Set up three bowls: flour, beaten eggs, and breadcrumbs.",
+        "Coat each cutlet in flour, then egg, and finally breadcrumbs, pressing lightly to adhere.",
+        "Heat the butter in a large pan. Fry the schnitzel for 2–3 minutes per side until golden brown, basting with hot butter.",
+        "Drain on paper towels and serve immediately with lemon."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 22,
+      "name": "Tom Yum Goong",
+      "price": 14,
+      "discount": 0,
+      "introduction": "The quintessential Thai soup. This 'hot and sour' masterpiece is characterized by its distinct aromatic herbs: lemongrass, galangal, and kaffir lime leaves. It is a refreshing yet fiery dish that showcases the complexity of Thai coastal flavors.",
+      "details": [
+        { "Cuisine": "Thai" },
+        { "Recipe Type": "Soup" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "10 large king prawns, shell-on",
+        "1 liter shrimp or vegetable stock",
+        "2 stalks lemongrass, bruised",
+        "3cm piece galangal, sliced",
+        "4 kaffir lime leaves",
+        "2 tbsp roasted chili paste (Nam Prik Pao)",
+        "3 tbsp fish sauce",
+        "3 tbsp lime juice",
+        "100g straw mushrooms"
+      ],
+      "recipe": [
+        "Bring the stock to a boil. Add lemongrass, galangal, and lime leaves; simmer for 5 minutes.",
+        "Add the mushrooms and prawns. Cook until prawns turn pink and are just cooked through.",
+        "Stir in the chili paste and fish sauce. Turn off the heat.",
+        "Add the lime juice last (to keep the flavor bright) and garnish with fresh cilantro and bird's eye chilies."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 23,
+      "name": "Osso Buco alla Milanese",
+      "price": 32,
+      "discount": 0,
+      "introduction": "A specialty of Lombardy, Italy. This dish consists of cross-cut veal shanks braised with vegetables, white wine, and broth. It is traditionally topped with gremolata (a mix of lemon zest, garlic, and parsley) and served with Saffron Risotto.",
+      "details": [
+        { "Cuisine": "Italian" },
+        { "Recipe Type": "Meat" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "120 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "4 veal shanks (cross-cut)",
+        "1 onion, 1 carrot, 1 celery stick, finely diced",
+        "250ml dry white wine",
+        "500ml beef or veal stock",
+        "2 tbsp tomato paste",
+        "For gremolata: 1 lemon (zested), 1 garlic clove (minced), handful of parsley"
+      ],
+      "recipe": [
+        "Dust veal shanks in flour and sear in a heavy pot until browned. Remove and set aside.",
+        "Sauté the onion, carrot, and celery in the same pot until softened.",
+        "Add tomato paste and wine, scraping the bottom of the pan to deglaze.",
+        "Return the meat to the pot, add stock, cover, and simmer on low for 2 hours or until meat is falling off the bone.",
+        "Mix gremolata ingredients and sprinkle over the meat just before serving."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 24,
+      "name": "Chicken Tikka Masala",
+      "price": 16,
+      "discount": 15,
+      "introduction": "While its roots are Indian, this dish is famously claimed as a British national dish. It features roasted marinated chicken chunks (tikka) in a spiced, creamy, orange-colored sauce. It is the perfect 'gateway' curry for those new to Indian spices.",
+      "details": [
+        { "Cuisine": "Anglo-Indian" },
+        { "Recipe Type": "Curry" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "40 mins" },
+        { "Cooking Time": "30 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "600g chicken breast, cubed",
+        "150ml natural yogurt",
+        "1 tbsp ginger-garlic paste",
+        "2 tsp turmeric, 2 tsp cumin, 2 tsp paprika",
+        "400g canned crushed tomatoes",
+        "200ml heavy cream",
+        "1 onion, finely chopped"
+      ],
+      "recipe": [
+        "Marinate chicken in yogurt and half the spices for at least 1 hour. Grill or pan-fry until charred.",
+        "Fry onion in a pan, add the remaining spices and ginger-garlic paste. Cook for 2 minutes.",
+        "Add tomatoes and simmer until the sauce thickens and oil begins to separate.",
+        "Stir in the cream and the cooked chicken. Simmer for 10 minutes.",
+        "Garnish with cilantro and serve with pilau rice."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 25,
+      "name": "Sushi (Nigiri & Maki)",
+      "price": 28,
+      "discount": 0,
+      "introduction": "Japan's most iconic culinary export. Sushi is as much an art form as it is a meal, focusing on the quality of the vinegared rice and the freshness of the seafood. Whether it's a simple slice of fish on rice (Nigiri) or rolled in seaweed (Maki), balance is key.",
+      "details": [
+        { "Cuisine": "Japanese" },
+        { "Recipe Type": "Seafood" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "60 mins" },
+        { "Cooking Time": "20 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "300g sushi-grade short-grain rice",
+        "2 tbsp rice vinegar, 1 tbsp sugar, 1 tsp salt",
+        "200g sashimi-grade salmon or tuna",
+        "Nori (seaweed) sheets",
+        "Wasabi and pickled ginger",
+        "Soy sauce for dipping"
+      ],
+      "recipe": [
+        "Wash rice until water runs clear. Cook and then fold in the vinegar, sugar, and salt mixture while cooling.",
+        "For Nigiri: Wet hands, form small oval mounds of rice, and place a thin slice of raw fish on top.",
+        "For Maki: Place nori on a bamboo mat, spread rice, add fish/vegetable strips, and roll tightly.",
+        "Slice rolls into bite-sized pieces using a very sharp, wet knife.",
+        "Serve with wasabi, ginger, and soy sauce."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 26,
+      "name": "Feijoada",
+      "price": 18,
+      "discount": 0,
+      "introduction": "The soul of Brazilian cuisine. Feijoada is a hearty black bean stew brewed with various cuts of pork and beef. Traditionally eaten on Saturdays, it's a social meal designed to be enjoyed slowly with orange slices, rice, and toasted cassava flour (farofa).",
+      "details": [
+        { "Cuisine": "Brazilian" },
+        { "Recipe Type": "Stew" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "180 mins" },
+        { "Serves": "8" }
+      ],
+      "ingredients": [
+        "500g black beans, soaked overnight",
+        "200g salted pork ribs",
+        "150g smoked sausage (Chouriço)",
+        "150g dried beef (Carne de Sol)",
+        "2 onions, diced",
+        "4 garlic cloves, minced",
+        "3 bay leaves",
+        "Oranges for serving"
+      ],
+      "recipe": [
+        "Drain the soaked beans and place in a large pot with fresh water. Bring to a boil.",
+        "Add the salted and smoked meats to the pot. Simmer on low heat for 2.5 hours.",
+        "In a separate pan, sauté onion and garlic, then add a ladle of beans and mash them to create a paste; return this paste to the main pot to thicken the stew.",
+        "Simmer for another 30 minutes until the beans are creamy.",
+        "Serve with white rice, kale, and orange slices to help digestion."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 27,
+      "name": "Gulyás (Hungarian Goulash)",
+      "price": 15,
+      "discount": 0,
+      "introduction": "A symbol of Hungary. Goulash is a soup or stew of meat and vegetables, seasoned heavily with paprika. Originating from 9th-century shepherds, the key to an authentic 'Gulyás' is using high-quality Hungarian sweet paprika and slow-cooking the beef until tender.",
+      "details": [
+        { "Cuisine": "Hungarian" },
+        { "Recipe Type": "Soup/Stew" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "120 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "600g beef shank or shoulder, cubed",
+        "2 onions, finely chopped",
+        "2 tbsp lard or oil",
+        "3 tbsp Hungarian paprika",
+        "2 carrots and 2 parsnips, sliced",
+        "3 potatoes, cubed",
+        "1 tomato and 1 green pepper, chopped",
+        "1 tsp caraway seeds"
+      ],
+      "recipe": [
+        "Cook onions in lard until translucent. Remove from heat and stir in the paprika (don't burn it!).",
+        "Add the beef cubes and caraway seeds. Cook until the meat releases its juices.",
+        "Add the chopped tomato and pepper. Cover and simmer in its own juice for 45 minutes.",
+        "Add water or stock along with carrots, parsnips, and potatoes. Cook until all vegetables are tender.",
+        "Serve hot with crusty bread or small noodles (csipetke)."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 28,
+      "name": "Nasi Goreng",
+      "price": 11,
+      "discount": 0,
+      "introduction": "Indonesian fried rice, distinguished by its smoky, aromatic flavor and the use of 'Kecap Manis' (sweet soy sauce). Often described as the national dish of Indonesia, it is commonly topped with a fried egg and served with prawn crackers.",
+      "details": [
+        { "Cuisine": "Indonesian" },
+        { "Recipe Type": "Rice" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "2 cups cooked jasmine rice (day-old is best)",
+        "200g chicken or prawns",
+        "3 tbsp Kecap Manis (sweet soy sauce)",
+        "1 tbsp shrimp paste (Terasi)",
+        "2 eggs (1 for mixing, 1 for topping)",
+        "2 shallots and 3 cloves garlic, minced",
+        "1 red chili, sliced"
+      ],
+      "recipe": [
+        "Heat oil in a wok. Fry shallots, garlic, and chili until fragrant.",
+        "Add shrimp paste and chicken/prawns. Stir-fry until cooked.",
+        "Add the rice, breaking up any clumps. Pour in the Kecap Manis and stir constantly over high heat.",
+        "Push rice aside and scramble one egg into the mix.",
+        "Serve topped with a sunny-side-up egg, cucumber slices, and prawn crackers (Krupuk)."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 29,
+      "name": "Chiles en Nogada",
+      "price": 26,
+      "discount": 0,
+      "introduction": "A patriotic Mexican dish representing the colors of the flag. It features Poblano chilies stuffed with 'picadillo' (a mixture of meat, fruits, and spices), topped with a walnut-based cream sauce (nogada) and pomegranate seeds. It is traditionally served in late summer.",
+      "details": [
+        { "Cuisine": "Mexican" },
+        { "Recipe Type": "Main" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "60 mins" },
+        { "Cooking Time": "45 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "4 large Poblano chilies, roasted and peeled",
+        "500g ground pork/beef mix",
+        "1 apple, 1 pear, 1 peach, finely diced",
+        "50g raisins and 50g slivered almonds",
+        "For sauce: 200g walnuts, 200ml crema, 100g goat cheese",
+        "Pomegranate seeds and parsley for garnish"
+      ],
+      "recipe": [
+        "Cook the meat with onions and garlic. Stir in the diced fruits, raisins, and almonds. Simmer until the fruits are soft.",
+        "Slit the Poblano chilies and remove seeds. Stuff them with the meat-fruit mixture.",
+        "Blend walnuts, crema, goat cheese, and a pinch of sugar until smooth to make the Nogada sauce.",
+        "Place stuffed chilies on a plate and cover generously with the cold walnut sauce.",
+        "Garnish with pomegranate seeds (red) and parsley (green) over the white sauce."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 30,
+      "name": "Ratatouille",
+      "price": 13,
+      "discount": 0,
+      "introduction": "A classic Provencal vegetable stew from Nice. Originally a meal for poor farmers, it has become a celebrated dish of French cuisine. It highlights the beauty of summer vegetables like zucchini, eggplant, and peppers, cooked until they meld into a rich, savory medley.",
+      "details": [
+        { "Cuisine": "French" },
+        { "Recipe Type": "Vegetarian" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "45 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "1 eggplant, 2 zucchinis, 2 bell peppers (diced)",
+        "4 large tomatoes, chopped",
+        "1 onion, 3 garlic cloves",
+        "4 tbsp olive oil",
+        "Herbes de Provence (thyme, rosemary, oregano)",
+        "Salt and black pepper"
+      ],
+      "recipe": [
+        "In a large pan, sauté the onions and garlic in olive oil until soft.",
+        "Add the peppers and eggplant; cook for 10 minutes until they start to soften.",
+        "Stir in the zucchinis and tomatoes. Season with herbs, salt, and pepper.",
+        "Cover and simmer on low heat for 30–40 minutes, allowing the vegetables to release their juices and soften completely.",
+        "Serve hot, cold, or as a side dish with crusty bread."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 31,
+      "name": "Jollof Rice",
+      "price": 14,
+      "discount": 0,
+      "introduction": "A beloved West African staple that is the subject of much friendly rivalry between nations. This 'one-pot' rice dish is cooked in a flavorful reduction of tomatoes, onions, and peppers, seasoned with thyme and scotch bonnet chilies. It is often served with fried plantains and grilled chicken.",
+      "details": [
+        { "Cuisine": "West African" },
+        { "Recipe Type": "Rice" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "45 mins" },
+        { "Serves": "6" }
+      ],
+      "ingredients": [
+        "400g long-grain parboiled rice",
+        "3 large tomatoes and 2 red bell peppers (blended)",
+        "1 scotch bonnet chili",
+        "100ml vegetable oil",
+        "2 red onions, sliced",
+        "3 tbsp tomato paste",
+        "600ml chicken stock",
+        "1 tsp curry powder and 1 tsp dried thyme"
+      ],
+      "recipe": [
+        "Heat oil and fry the onions until golden. Add tomato paste and fry for 5 minutes.",
+        "Add the blended tomato/pepper mix and spices. Cook until the water evaporates and the sauce thickens.",
+        "Wash the rice and add it to the pot, stirring to coat every grain in the sauce.",
+        "Pour in the stock, cover tightly with foil and a lid. Simmer on low heat for 30 minutes.",
+        "Once the rice is tender and has absorbed the flavors, fluff with a fork and serve."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 32,
+      "name": "Kottu Roti",
+      "price": 12,
+      "discount": 0,
+      "introduction": "The ultimate Sri Lankan street food. It is made by rhythmically chopping 'godamba' roti bread on a heated metal griddle, mixed with vegetables, eggs, spices, and often a spicy meat curry. The rhythmic clanging of the metal blades is a signature sound of Sri Lankan nights.",
+      "details": [
+        { "Cuisine": "Sri Lankan" },
+        { "Recipe Type": "Street Food" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "4 large plain rotis, shredded into strips",
+        "1 cup leftover chicken curry (with sauce)",
+        "2 eggs",
+        "1 onion and 1 carrot, finely julienned",
+        "2 green chilies, sliced",
+        "1 tsp ginger-garlic paste",
+        "Handful of curry leaves"
+      ],
+      "recipe": [
+        "Heat oil in a large flat pan or wok. Sauté curry leaves, onion, and chilies.",
+        "Add vegetables and cook until slightly softened. Stir in the eggs and scramble quickly.",
+        "Add the shredded roti and the chicken curry.",
+        "Using two metal spatulas (or a large knife on a board), chop the mixture vigorously while stir-frying.",
+        "Serve hot with a side of extra gravy."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 33,
+      "name": "Swedish Meatballs (Köttbullar)",
+      "price": 17,
+      "discount": 0,
+      "introduction": "Made famous worldwide by IKEA, but a deep-seated tradition in Swedish homes. Unlike Italian meatballs, these are smaller and flavored with allspice and nutmeg. They are classically served with a creamy gravy, boiled potatoes, and tart lingonberry jam.",
+      "details": [
+        { "Cuisine": "Swedish" },
+        { "Recipe Type": "Meat" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "20 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "250g ground beef and 250g ground pork",
+        "100ml milk and 50g breadcrumbs",
+        "1 egg",
+        "1/2 tsp allspice and 1/4 tsp nutmeg",
+        "For gravy: 40g butter, 40g flour, 300ml beef stock, 100ml heavy cream",
+        "Lingonberry jam for serving"
+      ],
+      "recipe": [
+        "Soak breadcrumbs in milk for 5 minutes. Mix with meat, spices, egg, and salt.",
+        "Roll into small, walnut-sized balls.",
+        "Fry the meatballs in butter until browned on all sides and cooked through. Remove.",
+        "In the same pan, melt more butter, whisk in flour, then slowly add stock and cream to make a gravy.",
+        "Return meatballs to the sauce and serve with mash and lingonberry jam."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 34,
+      "name": "Hummus with Spiced Lamb",
+      "price": 13,
+      "discount": 0,
+      "introduction": "While hummus is a dip, when topped with warm, spiced ground lamb and pine nuts (Hummus Kawarma), it becomes a substantial meal. This Levantine favorite combines the cool, creamy chickpea puree with the savory, hot fat of the meat.",
+      "details": [
+        { "Cuisine": "Levantine" },
+        { "Recipe Type": "Appetizer/Main" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "3" }
+      ],
+      "ingredients": [
+        "1 tub high-quality hummus (or homemade)",
+        "200g ground lamb",
+        "1 tsp Lebanese seven-spice (Baharat)",
+        "2 tbsp pine nuts",
+        "1 tbsp pomegranate molasses",
+        "Fresh parsley and olive oil"
+      ],
+      "recipe": [
+        "Toast the pine nuts in a dry pan until golden; set aside.",
+        "Fry the ground lamb in olive oil until browned. Stir in the seven-spice and salt.",
+        "Deglaze the pan with pomegranate molasses and remove from heat.",
+        "Spread a thick layer of hummus on a plate, creating a well in the center.",
+        "Spoon the hot lamb into the well, garnish with pine nuts and parsley, and serve with warm pita."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 35,
+      "name": "Moules-Frites",
+      "price": 22,
+      "discount": 0,
+      "introduction": "The unofficial national dish of Belgium. This simple but elegant pairing of steamed mussels and crispy fries is a North Sea classic. The mussels are typically steamed in a broth of white wine, shallots, and parsley (Moules Marinière).",
+      "details": [
+        { "Cuisine": "Belgian" },
+        { "Recipe Type": "Seafood" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "1kg fresh mussels, cleaned and debearded",
+        "2 shallots, finely chopped",
+        "2 cloves garlic, minced",
+        "150ml dry white wine",
+        "50g butter",
+        "Handful of chopped parsley",
+        "Frozen or fresh French fries"
+      ],
+      "recipe": [
+        "Discard any mussels that stay open when tapped.",
+        "In a large pot, melt butter and sauté shallots and garlic until translucent.",
+        "Pour in the wine and bring to a boil. Add the mussels and cover tightly.",
+        "Steam for 4–5 minutes until the shells have opened. Discard any that remain closed.",
+        "Stir in parsley and serve in large bowls with a side of hot, salty fries and mayo."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 36,
+      "name": "Bibimbap",
+      "price": 16,
+      "discount": 0,
+      "introduction": "Literally 'mixed rice.' This Korean dish is a bowl of warm white rice topped with 'namul' (seasoned vegetables), 'gochujang' (chili pepper paste), soy sauce, and a fried egg. It is a masterpiece of color, texture, and nutritional balance.",
+      "details": [
+        { "Cuisine": "Korean" },
+        { "Recipe Type": "Rice" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "2 cups cooked short-grain rice",
+        "100g beef strips (marinated in soy and sesame)",
+        "1 carrot (julienned), 1 zucchini (sliced), 100g spinach",
+        "2 eggs",
+        "2 tbsp Gochujang (Korean chili paste)",
+        "1 tsp toasted sesame oil"
+      ],
+      "recipe": [
+        "Sauté each vegetable separately with a little sesame oil and salt to keep their colors distinct.",
+        "Fry the beef strips until cooked through.",
+        "Blanch the spinach, squeeze out water, and season with sesame oil.",
+        "Place rice in a bowl, arrange the vegetables and meat in sections on top.",
+        "Place a fried egg in the center. Serve with a dollop of gochujang and mix everything together before eating."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 37,
+      "name": "Piri-Piri Chicken",
+      "price": 18,
+      "discount": 0,
+      "introduction": "A spicy Portuguese favorite with African roots. The chicken is marinated in a fiery sauce made from Malagueta chilies, citrus, and garlic, then chargrilled to smoky perfection. It is famously associated with the Algarve region.",
+      "details": [
+        { "Cuisine": "Portuguese" },
+        { "Recipe Type": "Poultry" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "40 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "1 whole chicken, butterflied (spatchcocked)",
+        "4-6 red bird's eye chilies",
+        "3 cloves garlic",
+        "100ml olive oil and 50ml lemon juice",
+        "1 tsp smoked paprika and 1 tsp dried oregano"
+      ],
+      "recipe": [
+        "Blend chilies, garlic, oil, lemon juice, and spices to make the piri-piri sauce.",
+        "Coat the chicken in the sauce and marinate for at least 4 hours (overnight is best).",
+        "Preheat a grill or oven (200°C). Cook the chicken, skin-side up, for 35–40 minutes.",
+        "Baste with extra sauce during the last 10 minutes of cooking.",
+        "Serve with fries or a simple tomato and onion salad."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 38,
+      "name": "Tagine Lahm (Lamb Tagine)",
+      "price": 28,
+      "discount": 0,
+      "introduction": "Named after the conical clay pot it is cooked in, the Moroccan tagine is a slow-cooked stew that beautifully blends savory meat with sweet fruits like apricots or prunes. The shape of the lid traps steam and returns it to the pot, keeping the lamb incredibly moist.",
+      "details": [
+        { "Cuisine": "Moroccan" },
+        { "Recipe Type": "Stew" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "25 mins" },
+        { "Cooking Time": "120 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "800g lamb shoulder, cubed",
+        "1 onion, diced",
+        "1 tsp each: ginger, cinnamon, turmeric",
+        "100g dried apricots or prunes",
+        "50g toasted almonds",
+        "1 tbsp honey",
+        "500ml beef stock"
+      ],
+      "recipe": [
+        "Brown the lamb in the tagine or a heavy pot. Add onions and spices; cook until fragrant.",
+        "Add stock and bring to a simmer. Cover and cook on low heat for 1.5 hours.",
+        "Stir in the dried fruit and honey. Simmer for another 30 minutes until the sauce is syrupy.",
+        "Garnish with toasted almonds and fresh coriander.",
+        "Serve with couscous to soak up the aromatic sauce."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 39,
+      "name": "Pierogi",
+      "price": 10,
+      "discount": 0,
+      "introduction": "The pride of Poland. These dumplings are made by wrapping unleavened dough around a savory or sweet filling and boiling them. The 'Ruskie' version (potato and cheese) is the most popular, often served with fried onions and sour cream.",
+      "details": [
+        { "Cuisine": "Polish" },
+        { "Recipe Type": "Dumplings" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "45 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "Dough: 500g flour, 1 egg, 200ml warm water",
+        "Filling: 500g boiled potatoes (mashed), 200g Quark or Twaróg cheese",
+        "1 onion, finely diced and fried in butter",
+        "Sour cream for serving"
+      ],
+      "recipe": [
+        "Mix the mashed potatoes, cheese, and half the fried onions to make the filling.",
+        "Knead the dough until smooth, roll thin, and cut out circles with a glass.",
+        "Place a spoonful of filling in each, fold, and pinch the edges to seal.",
+        "Boil in salted water until they float to the surface (about 3 mins).",
+        "Pan-fry in butter until slightly crispy and top with the remaining fried onions."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 40,
+      "name": "Fish and Chips",
+      "price": 15,
+      "discount": 0,
+      "introduction": "A British institution. Historically, it was a staple meal of the working class, but today it is enjoyed by everyone from beachside shacks to high-end restaurants. The secret is a light, bubbly beer batter and thick-cut 'fluffy' chips.",
+      "details": [
+        { "Cuisine": "British" },
+        { "Recipe Type": "Fish" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "2 large cod or haddock fillets",
+        "200g plain flour and 1 tsp baking powder",
+        "250ml cold beer (lager or ale)",
+        "4 large potatoes (Maris Piper)",
+        "Vegetable oil for deep frying",
+        "Malt vinegar and salt"
+      ],
+      "recipe": [
+        "Whisk flour, baking powder, and cold beer until you have a smooth, thick batter.",
+        "Slice potatoes into thick chips, parboil for 5 mins, then drain and dry.",
+        "Fry the chips at 160°C until pale; remove and drain.",
+        "Dust fish in flour, dip in batter, and fry at 180°C until golden and crispy.",
+        "Re-fry the chips at the higher temperature until golden. Serve with vinegar and mushy peas."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 41,
+      "name": "Ceviche",
+      "price": 18,
+      "discount": 0,
+      "introduction": "The coastal star of Peru. This dish uses the acidity of lime juice to 'cook' fresh raw fish. It is a masterclass in freshness, balanced by the heat of ají chilies and the crunch of toasted corn (cancha). It is often served with a slice of sweet potato to cut through the citrus.",
+      "details": [
+        { "Cuisine": "Peruvian" },
+        { "Recipe Type": "Seafood" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "0 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "400g firm white fish (sea bass or sole), cubed",
+        "150ml fresh lime juice",
+        "1 red onion, thinly sliced",
+        "1 tbsp cilantro, chopped",
+        "1 ají amarillo or habanero chili, minced",
+        "1 boiled sweet potato, sliced"
+      ],
+      "recipe": [
+        "Rinse the fish in cold water and pat dry. Place in a glass bowl.",
+        "Add the lime juice, sliced onion, and chili. Ensure the fish is submerged.",
+        "Let it marinate in the fridge for 10–15 minutes (the fish will turn opaque).",
+        "Toss in the cilantro and a pinch of salt.",
+        "Serve immediately with a side of sweet potato and toasted corn."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 42,
+      "name": "Shashlik",
+      "price": 19,
+      "discount": 0,
+      "introduction": "A Central Asian and Caucasian specialty of skewered and grilled cubes of meat. Unlike many kebabs, Shashlik is traditionally marinated for a long time in an acidic base (like vinegar, pomegranate juice, or kefir) with plenty of onions, resulting in incredibly tender meat.",
+      "details": [
+        { "Cuisine": "Central Asian" },
+        { "Recipe Type": "Grill" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "240 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "1kg lamb or pork neck, cut into large cubes",
+        "3 onions, sliced",
+        "100ml white vinegar or pomegranate juice",
+        "1 tbsp black pepper",
+        "1 tsp salt",
+        "Flatbread and raw onions for serving"
+      ],
+      "recipe": [
+        "In a large bowl, massage the meat with salt, pepper, and the sliced onions (squeeze them to release juice).",
+        "Add the vinegar/juice, cover, and marinate for at least 4 hours (overnight is better).",
+        "Thread the meat onto large metal skewers, alternating with pieces of onion from the marinade.",
+        "Grill over hot coals for 12–15 minutes, turning frequently until charred outside and juicy inside.",
+        "Serve with flatbread and sumac-dusted onions."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 43,
+      "name": "Lomo Saltado",
+      "price": 22,
+      "discount": 0,
+      "introduction": "A perfect example of 'Chifa' (Chinese-Peruvian) fusion. This stir-fry combines strips of steak with onions, tomatoes, and—uniquely—French fries, all tossed in a soy sauce base. It is a hearty, smoky dish that bridges two continents.",
+      "details": [
+        { "Cuisine": "Peruvian" },
+        { "Recipe Type": "Stir-fry" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "300g sirloin steak, cut into strips",
+        "1 red onion, sliced into wedges",
+        "2 tomatoes, sliced into wedges",
+        "2 cups cooked French fries",
+        "2 tbsp soy sauce",
+        "1 tbsp red wine vinegar",
+        "Fresh cilantro"
+      ],
+      "recipe": [
+        "Sear the steak strips in a very hot wok or pan until browned. Remove.",
+        "Sauté onions and tomatoes until the onion is soft but the tomato still holds its shape.",
+        "Add the soy sauce and vinegar, return the beef to the pan and toss.",
+        "Fold in the hot French fries and cilantro just before serving so the fries stay crisp.",
+        "Serve with white rice on the side for double the carbs!"
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 44,
+      "name": "Jamaican Patties",
+      "price": 8,
+      "discount": 0,
+      "introduction": "The iconic yellow-crusted handheld snack of Jamaica. The dough is tinted with turmeric or curry powder, and the filling is typically a savory, spicy ground beef mixture. It is a direct evolution of the Cornish pasty, adapted with Caribbean flavors.",
+      "details": [
+        { "Cuisine": "Jamaican" },
+        { "Recipe Type": "Pastry" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "40 mins" },
+        { "Cooking Time": "25 mins" },
+        { "Serves": "6" }
+      ],
+      "ingredients": [
+        "Pastry: 400g flour, 200g butter, 1 tbsp turmeric",
+        "Filling: 500g ground beef",
+        "1 scotch bonnet chili, minced",
+        "1 onion and 2 scallions, finely chopped",
+        "1 tsp thyme and 1 tsp allspice",
+        "50g breadcrumbs"
+      ],
+      "recipe": [
+        "Make the pastry by pulsing cold butter, flour, and turmeric. Add cold water to form a dough and chill.",
+        "Cook the beef with onions, chili, and spices. Add breadcrumbs and a splash of water to make it 'saucy'.",
+        "Roll out the dough and cut into circles.",
+        "Place filling on one half, fold, and crimp edges with a fork.",
+        "Bake at 200°C for 25 minutes until the pastry is flaky and golden."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 45,
+      "name": "Miso Soup",
+      "price": 6,
+      "discount": 0,
+      "introduction": "A fundamental pillar of Japanese dining. This soup is based on 'dashi' stock and fermented soybean paste (miso). It is prized for its 'umami' depth and probiotic benefits, typically served as a side to breakfast, lunch, or dinner.",
+      "details": [
+        { "Cuisine": "Japanese" },
+        { "Recipe Type": "Soup" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "500ml dashi stock (or water with dashi granules)",
+        "3 tbsp miso paste (white or red)",
+        "100g silken tofu, cubed",
+        "1 tbsp dried wakame seaweed",
+        "1 spring onion, sliced"
+      ],
+      "recipe": [
+        "Bring the dashi stock to a gentle simmer. Add the wakame seaweed.",
+        "Place the miso paste in a small bowl. Ladle in a little hot stock and whisk until smooth.",
+        "Add the cubed tofu to the pot and simmer for 1 minute.",
+        "Turn off the heat and stir in the dissolved miso (boiling miso destroys its nutrients).",
+        "Top with spring onions and serve immediately."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 46,
+      "name": "Arepas",
+      "price": 10,
+      "discount": 0,
+      "introduction": "A daily bread in Venezuela and Colombia. These round, flat corn cakes are made from pre-cooked cornmeal, grilled or fried, and then split open like a pita to be stuffed with everything from cheese to 'Reina Pepiada' (chicken and avocado salad).",
+      "details": [
+        { "Cuisine": "South American" },
+        { "Recipe Type": "Bread" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "2 cups pre-cooked cornmeal (P.A.N. flour)",
+        "2.5 cups warm water",
+        "1 tsp salt",
+        "1 tbsp vegetable oil",
+        "Fillings: shredded cheese, black beans, or chicken"
+      ],
+      "recipe": [
+        "Mix water, salt, and cornmeal in a bowl. Knead until a smooth dough forms without cracks.",
+        "Form into balls and flatten into 2cm thick discs.",
+        "Heat a lightly oiled griddle. Cook the arepas for 5–7 minutes per side until a crust forms.",
+        "Finish in the oven at 180°C for 5 minutes if they need to puff up.",
+        "Slice open three-quarters of the way and stuff with your choice of filling."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 47,
+      "name": "Banh Mi",
+      "price": 11,
+      "discount": 0,
+      "introduction": "The ultimate fusion sandwich. Born in Vietnam during the French colonial period, it combines a French baguette with Vietnamese ingredients like pâté, pickled daikon/carrots, cilantro, and grilled pork. It is a perfect balance of crispy, soft, savory, and tangy.",
+      "details": [
+        { "Cuisine": "Vietnamese" },
+        { "Recipe Type": "Sandwich" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "2 short baguettes",
+        "100g grilled pork or cold cuts",
+        "2 tbsp liver pâté",
+        "Pickled carrots and daikon (Do Chua)",
+        "Cucumber strips, cilantro, and fresh chili",
+        "Mayonnaise and a dash of Maggi sauce"
+      ],
+      "recipe": [
+        "Lightly toast the baguette until the crust is very crispy.",
+        "Slit the bread and spread mayonnaise on one side and pâté on the other.",
+        "Layer in the meat, then the cucumber and pickles.",
+        "Top with plenty of cilantro and sliced chilies.",
+        "Add a splash of Maggi seasoning sauce and serve."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 48,
+      "name": "Chiles Rellenos",
+      "price": 16,
+      "discount": 0,
+      "introduction": "A classic Mexican comfort dish. Large Poblano chilies are roasted, stuffed with gooey cheese or meat, dipped in a fluffy egg batter, and fried until golden. They are traditionally served swimming in a light, savory tomato broth.",
+      "details": [
+        { "Cuisine": "Mexican" },
+        { "Recipe Type": "Main" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "40 mins" },
+        { "Cooking Time": "20 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "4 Poblano chilies",
+        "200g Monterey Jack or Queso Oaxaca",
+        "3 eggs, separated",
+        "50g flour",
+        "Vegetable oil for frying",
+        "2 cups tomato salsa (thin/brothy)"
+      ],
+      "recipe": [
+        "Roast chilies over a flame until charred. Steam in a bag for 10 mins, then peel and remove seeds.",
+        "Stuff the chilies with cheese strips and secure with a toothpick.",
+        "Beat egg whites to stiff peaks, then gently fold in the yolks and a pinch of flour.",
+        "Dredge chilies in flour, dip in the egg batter, and fry until golden on all sides.",
+        "Serve hot with tomato broth poured over the top."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 49,
+      "name": "Fish Amok",
+      "price": 20,
+      "discount": 0,
+      "introduction": "The national dish of Cambodia. This is a steamed fish curry with a mousse-like consistency. It is flavored with 'kroeung' (a complex herb paste) and coconut milk, traditionally steamed inside a banana leaf cup for an elegant presentation.",
+      "details": [
+        { "Cuisine": "Cambodian" },
+        { "Recipe Type": "Curry" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "20 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "300g white fish fillets, sliced",
+        "2 tbsp Cambodian yellow Kroeung paste",
+        "200ml thick coconut cream",
+        "1 egg, beaten",
+        "1 tbsp fish sauce and 1 tsp palm sugar",
+        "Kaffir lime leaves, thinly shredded"
+      ],
+      "recipe": [
+        "Whisk the kroeung paste with coconut cream, egg, fish sauce, and sugar until smooth.",
+        "Gently stir the fish slices into the mixture.",
+        "Pour the mixture into banana leaf bowls or ramekins.",
+        "Steam for 20 minutes until the curry sets into a firm, custard-like texture.",
+        "Garnish with shredded lime leaves and a drizzle of coconut cream; serve with rice."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 50,
+      "name": "Churros with Chocolate",
+      "price": 9,
+      "discount": 0,
+      "introduction": "A Spanish breakfast and snack classic. These fluted, deep-fried dough pastries are crispy on the outside and soft on the inside. They are almost never eaten alone; they are the vessel for a cup of Spanish hot chocolate so thick you can practically stand a spoon in it.",
+      "details": [
+        { "Cuisine": "Spanish" },
+        { "Recipe Type": "Dessert" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "250ml water, 50g butter, 1 tsp sugar",
+        "150g plain flour, 1 egg",
+        "Oil for frying",
+        "For dipping: 200g dark chocolate, 100ml cream, 1 tsp cornstarch"
+      ],
+      "recipe": [
+        "Boil water, butter, and sugar. Remove from heat and beat in flour until it forms a ball. Let cool slightly, then beat in the egg.",
+        "Pipe the dough through a star-tipped nozzle into hot oil (180°C).",
+        "Fry until golden and drain on paper towels. Roll in cinnamon sugar.",
+        "For the chocolate: Melt chocolate and cream together. Whisk in a little cornstarch dissolved in milk to thicken into a dipping consistency.",
+        "Serve hot and fresh."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 51,
+      "name": "Five-Flavor Oat Diet Cookies",
+      "price": 12,
+      "discount": 0,
+      "introduction": "A healthy, Stevia-sweetened treat using oat flour and flakes. This batch includes five distinct varieties: Walnut, Chocolate, Peanut Butter, Coffee, and Carrot.",
+      "details": [
+        { "Cuisine": "Healthy/Diet" },
+        { "Recipe Type": "Baking" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "30" }
+      ],
+      "ingredients": [
+        "200g oat flour",
+        "100g oat flakes",
+        "Stevia (to taste)",
+        "Divided additions: Crushed walnuts, Cocoa nibs, Peanut butter, Instant coffee powder, Grated carrots"
+      ],
+      "recipe": [
+        "Mix the oat flour, flakes, and Stevia to form a base dough.",
+        "Divide the dough into five equal portions.",
+        "Fold in the specific flavorings to each portion (walnut, chocolate, etc.).",
+        "Shape into 30 small cookies and bake at 180°C for 12-15 minutes.",
+        "Allow to cool completely to reach a crunchy texture."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 52,
+      "name": "Ghormeh Sabzi",
+      "price": 18,
+      "discount": 0,
+      "introduction": "Often called the national dish of Iran, this herb stew is a masterpiece of slow cooking. It combines sautéed herbs (parsley, cilantro, and fenugreek) with kidney beans, lamb, and sun-dried limes (limoo amani), which provide a unique, tangy depth.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Stew" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "180 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "500g lamb or beef cubes",
+        "2 cups chopped herbs (parsley, leeks, cilantro, fenugreek)",
+        "1/2 cup red kidney beans (soaked)",
+        "4 dried limes (Limoo Amani)",
+        "1 tsp turmeric",
+        "1 onion, finely diced"
+      ],
+      "recipe": [
+        "Sauté the chopped herbs in oil for about 10-15 mins until they turn dark green and fragrant.",
+        "In a separate pot, brown the onions and meat with turmeric and black pepper.",
+        "Add the beans, fried herbs, and dried limes (pierced with a fork).",
+        "Cover with water and simmer on low for 3 hours until the meat is tender and oil rises to the top.",
+        "Serve with saffron-infused basmati rice (Chelow)."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 53,
+      "name": "Fesenjan",
+      "price": 22,
+      "discount": 0,
+      "introduction": "The jewel of Persian stews, Fesenjan is a decadent, sweet-and-sour dish traditionally served for celebrations. Its rich, dark sauce is made from finely ground walnuts and pomegranate molasses, usually simmered with duck or chicken.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Stew" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "120 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "8 chicken thighs",
+        "300g walnuts, toasted and finely ground",
+        "1 cup pomegranate molasses",
+        "2 tbsp sugar (optional, for balance)",
+        "1 onion, grated",
+        "1/2 tsp cinnamon"
+      ],
+      "recipe": [
+        "Sauté the grated onion and brown the chicken pieces.",
+        "Add the ground walnuts and cook on low for 5 minutes, stirring to prevent burning.",
+        "Pour in cold water; the temperature change helps the walnuts release their oil.",
+        "Stir in pomegranate molasses and simmer on very low heat for 2 hours until the sauce is thick and chocolate-colored.",
+        "Adjust sweetness with sugar and serve over rice."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 54,
+      "name": "Tahchin",
+      "price": 16,
+      "discount": 0,
+      "introduction": "An elegant Persian savory rice cake. Tahchin features layers of rice flavored with saffron, yogurt, and egg yolks, sandwiched with spiced chicken and baked until it develops a crisp, golden crust known as 'Tahdig'.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Rice Cake" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "40 mins" },
+        { "Cooking Time": "90 mins" },
+        { "Serves": "6" }
+      ],
+      "ingredients": [
+        "3 cups basmati rice",
+        "2 chicken breasts, cooked and shredded",
+        "1 cup Greek yogurt",
+        "2 egg yolks",
+        "1/2 cup bloomed saffron water",
+        "1/2 cup barberries (Zereshk)"
+      ],
+      "recipe": [
+        "Parboil the rice and drain.",
+        "Mix yogurt, egg yolks, saffron, and oil in a large bowl. Fold in the rice until yellow.",
+        "In a greased baking dish, press half the rice into the bottom. Layer with chicken and barberries.",
+        "Top with the remaining rice and press down firmly.",
+        "Cover and bake at 190°C for 75-90 minutes until the edges are deep gold. Flip onto a platter to serve."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 55,
+      "name": "Kabab Koobideh",
+      "price": 14,
+      "discount": 10,
+      "introduction": "The most popular street and restaurant food in Iran. Koobideh is made from twice-ground lamb or beef mixed with grated onions and spices, then molded onto flat skewers and grilled over hot coals.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Grill" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "10 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "1kg ground lamb (20% fat)",
+        "2 large onions, grated and squeezed dry",
+        "1 tsp salt and 1 tsp black pepper",
+        "1/2 tsp saffron (bloomed)",
+        "Sumac for serving"
+      ],
+      "recipe": [
+        "Mix the meat with the dry onion pulp (discard the juice to keep the meat on the skewer).",
+        "Knead the mixture for 10 minutes until it becomes sticky and paste-like.",
+        "Mold a handful of meat onto a flat metal skewer using wet hands.",
+        "Grill over very hot coals, turning every 30 seconds for about 8-10 minutes.",
+        "Serve with grilled tomatoes and sprinkle generously with sumac."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 56,
+      "name": "Zereshk Polo morgh",
+      "price": 15,
+      "discount": 0,
+      "introduction": "A vibrant and classic Persian dish consisting of saffron rice mixed with tart barberries (Zereshk) and served with a tender, tomato-based saffron chicken.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Main" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "60 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "4 chicken drumsticks or thighs",
+        "3 cups basmati rice",
+        "1/2 cup dried barberries",
+        "1 tbsp butter and 1 tbsp sugar",
+        "2 tbsp tomato paste",
+        "Saffron water"
+      ],
+      "recipe": [
+        "Cook the chicken with onions, turmeric, and tomato paste until tender.",
+        "Steam the basmati rice using the 'Chelow' method with a tahdig crust.",
+        "Sauté the barberries in butter and sugar for 1 minute (don't burn them).",
+        "Mix a portion of the rice with saffron water and the barberries.",
+        "Layer the bright red barberry rice over the white rice and serve with the chicken on the side."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 57,
+      "name": "Abgoosht (Dizi)",
+      "price": 13,
+      "discount": 0,
+      "introduction": "A rustic, centuries-old shepherd's stew. It is cooked in a stone or clay pot (Dizi) and consists of lamb, chickpeas, white beans, and potatoes. It is eaten in two steps: first the broth as a soup, then the solids are mashed into a paste.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Stew" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "240 mins" },
+        { "Serves": "2" }
+      ],
+      "ingredients": [
+        "500g lamb shank with fat",
+        "1/2 cup chickpeas and white beans",
+        "2 potatoes and 1 onion",
+        "2 tbsp tomato paste",
+        "2 dried limes",
+        "1 tsp turmeric"
+      ],
+      "recipe": [
+        "Place meat, beans, onion, and turmeric in a pot with water and simmer for 3 hours.",
+        "Add potatoes, tomato paste, and dried limes. Cook for another hour.",
+        "Strain the broth into a bowl—this is the first course, eaten with pieces of flatbread (Tilit).",
+        "Mash the remaining solids (meat, beans, potatoes) into a smooth paste (Gousht Koobideh) and eat with bread and pickles."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 58,
+      "name": "Ash Reshteh",
+      "price": 10,
+      "discount": 0,
+      "introduction": "The most famous Persian thick soup. Packed with various beans, fresh herbs, and special Persian noodles (Reshteh), it is topped with fermented whey (Kashk), caramelized onions, and fried mint oil.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Soup" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "90 mins" },
+        { "Serves": "6" }
+      ],
+      "ingredients": [
+        "200g Reshteh (Persian noodles)",
+        "1 cup mixed beans (lentils, chickpeas, navy beans)",
+        "4 cups chopped herbs (parsley, spinach, cilantro, scallions)",
+        "1 cup Kashk (liquid whey)",
+        "Fried onions, garlic, and dried mint for garnish"
+      ],
+      "recipe": [
+        "Cook the beans until tender.",
+        "Add the chopped herbs and water/stock; simmer for 30 minutes.",
+        "Add the noodles (they contain salt, so adjust seasoning later). Cook until soft.",
+        "Stir in half of the Kashk.",
+        "Top with a swirl of Kashk, golden fried onions, and 'Nana Dagh' (mint sizzled in oil)."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 59,
+      "name": "Kashk-e Bademjan",
+      "price": 9,
+      "discount": 0,
+      "introduction": "A savory eggplant dip that is a staple of Persian appetizers. Fried eggplants are mashed and flavored with kashk (whey), garlic, and walnuts. It is creamy, umami-rich, and incredibly satisfying.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Appetizer" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "30 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "4 large eggplants",
+        "1/2 cup Kashk",
+        "1/4 cup crushed walnuts",
+        "2 onions, sliced and fried",
+        "4 cloves garlic, minced",
+        "Dried mint"
+      ],
+      "recipe": [
+        "Peel and fry eggplant slices until golden, then mash them with a fork.",
+        "Sauté garlic and onions with turmeric, then add to the eggplants.",
+        "Stir in the kashk and crushed walnuts; cook for 10 minutes on low to meld flavors.",
+        "Garnish with fried mint and extra kashk. Serve with Sangak or Lavash bread."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 60,
+      "name": "Sabzi Polo ba Mahi",
+      "price": 25,
+      "discount": 0,
+      "introduction": "The traditional meal for Nowruz (Persian New Year). It pairs aromatic herb rice (Sabzi Polo) with fried or smoked fish, usually whitefish from the Caspian Sea.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Main/Seafood" },
+        { "Difficulty": "Medium" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "60 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "3 cups basmati rice",
+        "2 cups chopped herbs (parsley, cilantro, dill, fenugreek)",
+        "2 whitefish fillets (or Seabass)",
+        "Garlic and lemon for marinade",
+        "Saffron"
+      ],
+      "recipe": [
+        "Parboil rice and drain. Layer the rice with the fresh chopped herbs in a pot.",
+        "Steam until a golden tahdig forms at the bottom.",
+        "Marinate fish in lemon, saffron, and salt, then pan-fry until crispy.",
+        "Serve the herb-rich rice with the fish and fresh Seville orange (Narenj)."
+      ],
+      "image_tag": ""
+    },
+    {
+      "id": 61,
+      "name": "Joojeh Kabab",
+      "price": 16,
+      "discount": 0,
+      "introduction": "Grilled chicken skewers marinated in a vibrant mixture of saffron, lemon juice, and onions. The saffron gives the chicken a beautiful golden color and an unmistakable aroma.",
+      "details": [
+        { "Cuisine": "Persian" },
+        { "Recipe Type": "Grill" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "240 mins" },
+        { "Cooking Time": "15 mins" },
+        { "Serves": "4" }
+      ],
+      "ingredients": [
+        "1kg chicken (bone-in or breast), cut into pieces",
+        "1/2 cup lemon juice",
+        "1/2 cup bloomed saffron water",
+        "2 onions, sliced into rings",
+        "50g melted butter"
+      ],
+      "recipe": [
+        "Marinate chicken in lemon, saffron, onions, and salt for at least 4 hours.",
+        "Thread chicken onto skewers.",
+        "Grill over coals, basting with melted butter and saffron during the final minutes.",
+        "Serve with saffron rice or wrapped in hot flatbread."
+      ],
+      "image_tag": ""
     }
   ]
 }
