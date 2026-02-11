@@ -1,9 +1,23 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import styles from "../../styles/CategoriesPage.module.css";
 import { useRouter } from "next/router";
-function CategoriesPage() {
+import Card from "../modules/Card";
+function CategoriesPage({ data }) {
   const router = useRouter();
   const [query, setQuery] = useState({ difficulty: "", time: "", cuisine: "" });
+
+  useEffect(() => {
+    const { difficulty, time, cuisine } = router.query;
+    if (query.time !== time) {
+      setQuery({ ...query, time });
+    }
+    if (query.cuisine !== cuisine) {
+      setQuery({ ...query, cuisine });
+    }
+    if (query.difficulty !== difficulty) {
+      setQuery({ ...query, difficulty });
+    }
+  }, []);
 
   function changeHandler(e) {
     setQuery({ ...query, [e.target.name]: e.target.value });
@@ -35,11 +49,7 @@ function CategoriesPage() {
             <option value="more">More than 30 min</option>
             <option value="less">less than 30 min</option>
           </select>
-          <select
-            name="cuisines"
-            value={query.cuisine}
-            onChange={changeHandler}
-          >
+          <select name="cuisine" value={query.cuisine} onChange={changeHandler}>
             <option value="">Cuisines</option>
             <option value="american">American</option>
             <option value="anglo-indian">Anglo-Indian</option>
@@ -80,35 +90,17 @@ function CategoriesPage() {
           </select>
           <button onClick={searchHandler}>Search</button>
         </div>
+        <div className={styles.cards}>
+          {!data.length ? (
+            <img src="../images/search.png" alt="Category" />
+          ) : null}
+          {data.map((food) => (
+            <Card key={food.id} {...food} />
+          ))}
+        </div>
       </div>
     </div>
   );
 }
 
 export default CategoriesPage;
-
-export async function getServerSideProps(context) {
-  const { query: difficulty, time, cuisines } = context;
-  const res = await fetch(`http://localhost:4000/data`);
-  const data = await res.json();
-
-  const filteredData = data.filter((item) => {
-    const difficultyResult = item.details.filter(
-      (detail) => detail.difficulty && detail.difficulty === difficulty,
-    );
-    const timeResult = item.details.filter(
-      (detail) => detail.time && detail.time === time,
-    );
-    const cookingTime = detail["Cooking Time"] || "";
-    const cuisineResult = item.details.filter(
-      (detail) => detail.cuisine && detail.cuisine === cuisines,
-    );
-    return difficultyResult && timeResult && cuisineResult;
-  });
-
-  return {
-    props: {
-      query,
-    },
-  };
-}
