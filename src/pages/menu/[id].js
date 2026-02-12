@@ -26,24 +26,31 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: true,
+    fallback: true, // یا "blocking" برای تجربه کاربری بهتر در سئو
   };
 }
 
 export async function getStaticProps(context) {
   const { params } = context;
-  const res = await fetch(`http://localhost:4000/data/${params.id}`);
-  const data = await res.json();
-  console.log(data.id);
 
-  if (!data.id) {
+  try {
+    const res = await fetch(`http://localhost:4000/data/${params.id}`);
+
+    if (!res.ok) {
+      return { notFound: true };
+    }
+    const data = await res.json();
+
+    if (!data || !data.id) {
+      return { notFound: true };
+    }
+
     return {
-      notFound: true,
+      props: { data },
+      revalidate: 1 * 60 * 60,
     };
+  } catch (error) {
+    console.error("Fetch error:", error.message);
+    return { notFound: true };
   }
-
-  return {
-    props: { data },
-    revalidate: 10,
-  };
 }
